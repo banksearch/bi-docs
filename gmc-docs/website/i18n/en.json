@@ -6,8 +6,8 @@
     "tagline": "Documentation",
     "docs": {
       "access": {
-        "title": "Blank Template",
-        "sidebar_label": "Blank Template"
+        "title": "Accessing the site",
+        "sidebar_label": "Accessing the site"
       },
       "api": {
         "title": "Blank Template",
@@ -78,8 +78,8 @@
         "sidebar_label": "Overview"
       },
       "overview": {
-        "title": "Blank Template",
-        "sidebar_label": "Blank Template"
+        "title": "Overview",
+        "sidebar_label": "Overview"
       },
       "publishing-survey": {
         "title": "Publishing / Unpublishing Survey",

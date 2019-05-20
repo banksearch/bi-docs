@@ -1,9 +1,11 @@
 ---
 id: api
-title: Blank Template
-sidebar_label: Blank Template
+title: API
+sidebar_label: API
 ---
 
-## Header
+## Grow My Company API
 
-[TODO]
+We provide access to the Grow My Company API which powers Grow My Company.
+
+Documentation can be found [here](https://benchmark.growmycompany.co.uk/api/docs).
