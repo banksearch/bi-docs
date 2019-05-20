@@ -1,6 +1,6 @@
 {
   "docs": {
-    "Grow My Company": ["overview", "access", "create-account", "dashboards"],
+    "Grow My Company": ["overview", "access", "create-account"],
     "Admin": ["create-account-admin"],
     "Developers": ["api"]
   }
