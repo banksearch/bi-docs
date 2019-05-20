@@ -24,5 +24,5 @@ On this screen, enter the required information.
 
 There are two roles available:
 
-- Admin - is able to view all companies as well as view/edit/delete companies/surveys that belong to user and access admin features
-- User - is able to view/edit/delete companies/surveys that belong to user
+- Admin - is able to view all companies as well as view/edit/delete companies/surveys that belong to the user and access admin features
+- User - is able to view/edit/delete companies/surveys that belong to the user
