@@ -1,0 +1,38 @@
+/* your custom css */
+
+@media only screen and (min-device-width: 360px) and (max-device-width: 736px) {
+}
+
+@media only screen and (min-width: 1024px) {
+}
+
+@media only screen and (max-width: 1023px) {
+}
+
+@media only screen and (min-width: 1400px) {
+}
+
+@media only screen and (min-width: 1500px) {
+}
+
+.fixedHeaderContainer {
+  background: #fff;
+  border-bottom: 1px solid $primaryColor;
+}
+
+.fixedHeaderContainer a {
+  color: $primaryColor;
+}
+
+.fixedHeaderContainer header img {
+  height: 100%;
+  margin-right: 30px;
+}
+
+.navigationSlider .slidingNav ul li a:focus,
+.navigationSlider .slidingNav ul li a:hover,
+.navigationSlider .slidingNav ul li.siteNavItemActive a,
+.navigationSlider .slidingNav ul li.siteNavGroupActive a {
+  background: #fff;
+  color: $primaryColor;
+}

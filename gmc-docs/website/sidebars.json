@@ -1,0 +1,7 @@
+{
+  "docs": {
+    "Grow My Company": ["overview", "access", "create-account", "dashboards"],
+    "Admin": ["create-account-admin"],
+    "Developers": ["api"]
+  }
+}

@@ -1,2 +1,2 @@
-# bcu
-BCU Project
+# GMC Documentation
+GMC documentation Project
